@@ -70,11 +70,13 @@ the fundamentals of network data.
 
 {{< /details >}}
 
-## Datasets and code
+## Resources
 
-### Focal networks
+### Datasets: Focal networks
 
+- [Readme](wwnd-readme.md)
 - [wwnd-focal-networks.zip](wwnd-focal-networks.zip)
 
+### Errata
 
-
+- [Errata](errata.md)
