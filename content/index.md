@@ -13,7 +13,7 @@ featured_image: 'background.png'
 ## Why this book? 
 
 This book focuses on the _practical side_ of network science — **working with
-network data** — to provide a more practical guide for data scientists to use network science.
+network data** — to offer a useful guide for data scientists to use network science.
 
 We hope that this book can help researchers in day-to-day tasks, starting from
 the very act of conceptualizing networks through to sophisticated network
@@ -70,11 +70,13 @@ the fundamentals of network data.
 
 {{< /details >}}
 
-## Datasets and code
+## Resources
 
-### Focal networks
+### Datasets: Focal networks
 
+- [Readme](wwnd-readme.md)
 - [wwnd-focal-networks.zip](wwnd-focal-networks.zip)
 
+### Errata
 
-
+- [Errata](errata.md)
