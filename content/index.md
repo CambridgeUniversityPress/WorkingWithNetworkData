@@ -74,9 +74,9 @@ the fundamentals of network data.
 
 ### Datasets: Focal networks
 
-- [Readme](wwnd-readme.md)
+- [Readme](https://github.com/CambridgeUniversityPress/WorkingWithNetworkData/blob/main/content/wwnd-readme.md)
 - [wwnd-focal-networks.zip](wwnd-focal-networks.zip)
 
 ### Errata
 
-- [Errata](errata.md)
+- [Errata](https://github.com/CambridgeUniversityPress/WorkingWithNetworkData/blob/main/content/errata.md)
